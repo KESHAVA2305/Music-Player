@@ -23,7 +23,7 @@ new Vue({
           artist: "Bakraa",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/super%20star.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20Bhakra%20Bhakra.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          url: "https://www.youtube.com/watch?v=H89G0yLekfw",
           favorited: false
         },
         {
@@ -31,7 +31,7 @@ new Vue({
           artist: "College Getalli",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/paramathma.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20College%20Gatalli.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          url: "https://www.youtube.com/watch?v=18DJID0si-4",
           favorited: false
         },
         {
@@ -39,7 +39,7 @@ new Vue({
           artist: "Tagaru Banthu Tagaru",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/tagaru.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20Tagaru%20Banthu%20Tagaru.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://www.youtube.com/watch?v=V3-Fd8wPuRA",
           favorited: false
         },
         {
@@ -47,7 +47,7 @@ new Vue({
           artist: "Akasha Este Yakedeyu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/galipata.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Akasha%20Este%20Yakedyu.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          url: "https://www.youtube.com/watch?v=HfNtBJSkprk",
           favorited: false
         },
         {
@@ -55,7 +55,7 @@ new Vue({
           artist: "Avva Kano Kannada",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/pallakki.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Avva%20Kano%20Kannada.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          url: "https://www.youtube.com/watch?v=e6vCP1UEQ7Q",
           favorited: false
         },
         {
@@ -63,7 +63,7 @@ new Vue({
           artist: "Tick Tick Tick",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/the%20villan.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Tick%20Tick%20Tick.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          url: "https://www.youtube.com/watch?v=Vx8coSNsZ9Y",
           favorited: false
         },
         {
@@ -71,7 +71,7 @@ new Vue({
           artist: "Hudugi Male Billu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/geleya.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Hudugi%20Male%20Billu.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          url: "https://www.youtube.com/watch?v=Xz3DxCdG_7E",
           favorited: false
         },
         {
@@ -79,7 +79,7 @@ new Vue({
           artist: "Mandakiniye",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/hudugaata.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Mandakiniye.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=1nRmY2k-0Xc",
           favorited: false
         },
           {
@@ -87,7 +87,7 @@ new Vue({
           artist: "Muthuraja",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/raaj.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Muthuraja.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=HY6yxaEFVDQ",
           favorited: false
         },
           {
@@ -95,7 +95,7 @@ new Vue({
           artist: "OGM",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/ghost.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20OGM.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=r7TE4U42DDU",
           favorited: false
         },
           {
@@ -103,7 +103,7 @@ new Vue({
           artist: "Bidu Bidu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/pallakki.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2004%20-%20Bidu%20Bidu%20Kaddu%20Kaddu.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=DjIf3GOuw18",
           favorited: false
         },
           {
@@ -111,7 +111,7 @@ new Vue({
           artist: "Matinalli Helalarenu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/bombaat.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2004%20-%20Mathinalli%20Helalarenu%20(Male).mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/results?search_query=geleya+kannada+movie+songs",
           favorited: false
         },
           {
@@ -119,7 +119,7 @@ new Vue({
           artist: "Nanna Styleu Berene",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/geleya%20style.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2005%20-%20Nanna%20Stylu%20Berebe.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=kPFkPNDqyWg",
           favorited: false
         },
           {
@@ -127,7 +127,7 @@ new Vue({
           artist: "last Bench",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/kirik%20party.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2006%20-%20Last%20Benchu%20Party.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=qH2CAvdMxS4",
           favorited: false
         },
           {
@@ -135,7 +135,7 @@ new Vue({
           artist: "Rana Rana Raavana",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/the%20villan.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2006%20-%20Rana%20Rana%20Raavana.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=zmNQjXoKHp0",
           favorited: false
         },
           {
@@ -143,7 +143,7 @@ new Vue({
           artist: "Katheyondu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/kirik%20party.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2009%20-%20Katheyondu%20Helide%20(Farewell).mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=QpKQjISfB4s",
           favorited: false
         }
          ],
