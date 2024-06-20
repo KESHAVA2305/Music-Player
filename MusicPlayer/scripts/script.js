@@ -20,7 +20,7 @@ new Vue({
         },
         {
           name: "Super Star",
-          artist: "Leonard Cohen",
+          artist: "Bakraa",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/super%20star.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20Bhakra%20Bhakra.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
@@ -28,7 +28,7 @@ new Vue({
         },
         {
           name: "Paramathma",
-          artist: "Moby",
+          artist: "College Getalli",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/paramathma.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20College%20Gatalli.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
@@ -36,7 +36,7 @@ new Vue({
         },
         {
           name: "Tagaru",
-          artist: "Sia",
+          artist: "Tagaru Banthu Tagaru",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/tagaru.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2001%20-%20Tagaru%20Banthu%20Tagaru.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
@@ -44,7 +44,7 @@ new Vue({
         },
         {
           name: "Galipata",
-          artist: "Haggard",
+          artist: "Akasha Este Yakedeyu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/galipata.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Akasha%20Este%20Yakedyu.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
@@ -52,7 +52,7 @@ new Vue({
         },
         {
           name: "Pallakki",
-          artist: "LSD",
+          artist: "Avva Kano Kannada",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/pallakki.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Avva%20Kano%20Kannada.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
@@ -60,7 +60,7 @@ new Vue({
         },
         {
           name: "The Villan",
-          artist: "Lindi Ortega",
+          artist: "Tick Tick Tick",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/the%20villan.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2002%20-%20Tick%20Tick%20Tick.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
@@ -68,7 +68,7 @@ new Vue({
         },
         {
           name: "Geleya",
-          artist: "Grandson",
+          artist: "Hudugi Male Billu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/geleya.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Hudugi%20Male%20Billu.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
@@ -76,7 +76,7 @@ new Vue({
         },
         {
           name: "Hudugaata",
-          artist: "Human",
+          artist: "Mandakiniye",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/hudugaata.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Mandakiniye.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
@@ -84,7 +84,7 @@ new Vue({
         },
           {
           name: "Raaj",
-          artist: "Norm Ender",
+          artist: "Muthuraja",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/raaj.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20Muthuraja.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -92,7 +92,7 @@ new Vue({
         },
           {
           name: "Ghost",
-          artist: "Norm Ender",
+          artist: "OGM",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/ghost.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2003%20-%20OGM.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -100,7 +100,7 @@ new Vue({
         },
           {
           name: "Pallakki",
-          artist: "Norm Ender",
+          artist: "Bidu Bidu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/pallakki.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2004%20-%20Bidu%20Bidu%20Kaddu%20Kaddu.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -108,7 +108,7 @@ new Vue({
         },
           {
           name: "Bombaat",
-          artist: "Norm Ender",
+          artist: "Matinalli Helalarenu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/bombaat.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2004%20-%20Mathinalli%20Helalarenu%20(Male).mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -116,7 +116,7 @@ new Vue({
         },
           {
           name: "Geleya",
-          artist: "Norm Ender",
+          artist: "Nanna Styleu Berene",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/geleya%20style.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2005%20-%20Nanna%20Stylu%20Berebe.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -124,7 +124,7 @@ new Vue({
         },
           {
           name: "Kirik Party",
-          artist: "Norm Ender",
+          artist: "last Bench",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/kirik%20party.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2006%20-%20Last%20Benchu%20Party.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -132,7 +132,7 @@ new Vue({
         },
           {
           name: "The Villan",
-          artist: "Norm Ender",
+          artist: "Rana Rana Raavana",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/the%20villan.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2006%20-%20Rana%20Rana%20Raavana.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
@@ -140,7 +140,7 @@ new Vue({
         },
           {
           name: "Kirik Party",
-          artist: "Norm Ender",
+          artist: "Katheyondu",
           cover: "https://github.com/KESHAVA2305/Music-Player/blob/main/MusicPlayer/img/kirik%20party.jpg?raw=true",
           source: "https://github.com/KESHAVA2305/Music-Player/raw/main/MusicPlayer/mp3/%5BiSongs.info%5D%2009%20-%20Katheyondu%20Helide%20(Farewell).mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
